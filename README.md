@@ -61,7 +61,7 @@
 </div>
 
 # :eyes: Demo Website
-👉  demo: 
+👉  demo: https://podcastr-nlw-azure.vercel.app/
 
 # :computer: Technologies
 This project was made using the follow technologies:
@@ -73,8 +73,7 @@ This project was made using the follow technologies:
 
 # :rocket: Features
 
-* Pomodoro timer.
-* Help to get up of chair and make some exercise.
+* Listen to podcasts.
 
 # :construction_worker: How to run
 ```bash
